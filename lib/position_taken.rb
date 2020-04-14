@@ -1,6 +1,5 @@
 # code your #position_taken? method here!
 def position_taken?(board, index)
-  if index.between?(0,9) && !position_taken?(board, index)
-    return TRUE
+  if 
   end
 end
